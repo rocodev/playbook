@@ -2,7 +2,7 @@ Playbook
 ======
 
 * [Kickstart](/rocodev/playbook/blob/master/kickstart) 展開新的網路生意
-
+* [Equipments](/rocodev/playbook/blob/master/equipments) 辦公室設備
 
 
 Credits
