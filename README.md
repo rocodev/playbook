@@ -1,7 +1,7 @@
 Playbook
 ======
 
-[Kickstart](/rocodev/playbook/blob/master/kickstart)
+* [Kickstart](/rocodev/playbook/blob/master/kickstart) 展開新的網路生意
 
 
 
