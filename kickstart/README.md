@@ -1,3 +1,4 @@
+# KickStart Guides
 
 ## Domain Registration
 
@@ -112,4 +113,17 @@ Trello 是免費的工具，適合相當小型的專案內部實作。
 
 * [Dropbox Upgrade](https://www.dropbox.com/upgrade) 100GB $9.99 USD/month
 * [Dropbox Team](https://www.dropbox.com/teams/pricing) $750 USD/year for Team (5 user, 1000 GB per user )
+
+
+## Other Tool
+
+* [Airbrake](http://airbrakeapp.com) 監視程式碼錯誤 (for Rails)
+* [Newreclic RPM](http://newrelic.com/) 監視網站效能
+* [Pingdom](http://tools.pingdom.com/fpt/) 監視網站是否倒站，發簡訊通知
+* [Google Analytics](http://www.google.com.tw/intl/zh-TW/analytics/) 網站流量監視
+* [Passback](http://www.passpack.com/en/home/) 團隊密碼管理分享
+
+### 花費
+
+(TODO)
 
