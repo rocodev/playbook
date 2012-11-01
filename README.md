@@ -1,6 +1,8 @@
 Playbook
 ======
 
+[Kickstart](/rocodev/playbook/blob/master/kickstart)
+
 
 
 Credits
