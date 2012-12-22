@@ -21,10 +21,15 @@
 
 <http://www.aerobile.com/eshop/tw/gophone-p-122.html>
 
-
 ```
 1 x ATT GoPhone 儲值密碼 $15
   - 幫我更改計費方案成為: 不需更變
   - 儲值方法: 幫我儲值，並轉為200MB上網包
   - 欲儲值的電話號碼:  XXXXX
 ```
+
+### 手機 unlock 切成 AT & T
+
+手機直接連這個網頁 <http://www.unlockit.co.nz>
+
+ref : <http://www.unlockit.co.nz/mobilesettings/settings.php?id=693>
