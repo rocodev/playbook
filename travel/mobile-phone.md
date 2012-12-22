@@ -33,3 +33,9 @@
 手機直接連這個網頁 <http://www.unlockit.co.nz>
 
 ref : <http://www.unlockit.co.nz/mobilesettings/settings.php?id=693>
+
+## 大陸 / 香港
+
+打給中華電信需要出國漫遊，告知出發時間以及返台時間
+
+<http://www.emome.net/international_roaming_plan/daily>
