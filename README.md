@@ -1,14 +1,14 @@
 Playbook
 ======
 
-* [Kickstart](/rocodev/playbook/blob/master/kickstart) 展開新的網路生意
-* [Equipments](/rocodev/playbook/blob/master/equipments) 辦公室設備
-* [出國出差指南](/rocodev/playbook/blob/master/travel) 簽證、購票、行李..etc
+* [Kickstart](https://github.com/rocodev/playbook/tree/master/kickstart) 展開新的網路生意
+* [Equipments](https://github.com/rocodev/playbook/tree/master/equipments) 辦公室設備
+* [出國出差指南](https://github.com/rocodev/playbook/tree/master/travel) 簽證、購票、行李..etc
 
 Credits
 -------
 
-Thank you, [contributors](/rocodev/playbook/graphs/contributors)!
+Thank you, [contributors](https://github.com/rocodev/playbook/graphs/contributors)!
 
 
 
