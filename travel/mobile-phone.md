@@ -2,34 +2,11 @@
 
 ## 美國
 
-選擇 美國AT&T/GoPhone 手機預付卡-以分/以日計費
+~~選擇 美國AT&T/GoPhone 手機預付卡-以分/以日計費~~
 
-<http://www.aerobile.com/eshop/tw/atamptgophone-p-61.html>
+GoPhone 只剩下月費方案 (76USD 起跳) 才可搭配 3G 上網。
 
-
-```
-1 x 美國AT&amp;T/GoPhone 手機預付卡-以分/以日計費 = NT$1,290.0
-        增加通話金額 US$25, 90天有效期
-        到達城市及州省名(當地) San Francisco
-        剪成Micro Sim 卡 是
-        加購 i-Card 無
-        ATT GoPhone 計畫 以日計費 一天$2無限暢打(Unlimited)
-        離開國內日期 09/11/2012
-```
-
-增購 3G 上網
-
-<http://www.aerobile.com/eshop/tw/gophone-p-122.html>
-
-```
-1 x ATT GoPhone 儲值密碼 $15
-  - 幫我更改計費方案成為: 不需更變
-  - 儲值方法: 幫我儲值，並轉為200MB上網包
-  - 欲儲值的電話號碼:  XXXXX
-```
-
-**[Tip 1]** 選購上述 AT&T / GoPhone 預付卡（以分/以日計費）並無法加購上網包，要上網的話需選月卡（US$25 起跳）才能再加購
-**[Tip 2]** 1GB 上網包只要 US$25，有需要的話會比 200MB (US$15) 划算
+新的 [Airvoice](http://www.aerobile.com/eshop/en/cell-phone-card-at%26amp%3Bt-airvoice-c-25_46.html) 可能是可行的替代。至於 T-Mobile 據說速度太慢，不推薦。
 
 ### 手機 unlock 切成 AT & T
 
@@ -42,3 +19,15 @@ ref : <http://www.unlockit.co.nz/mobilesettings/settings.php?id=693>
 打給中華電信需要出國漫遊，告知出發時間以及返台時間
 
 <http://www.emome.net/international_roaming_plan/daily>
+
+# 中華電信國際漫遊日租方案
+
+如果是中華電信門號，可申請 7 或 15 日的國際漫遊，上限分別到 80MB 與 200MB，超過後的費率非常高。
+
+1. 首先到中華電信門市取消「語音通話漫遊限制」與「3G 數據網路漫遊限制」
+2. 用手機直播 800 轉 9 接客服。要求預約國際漫遊方案，開通時間點以台灣時間為準
+3. 到當地搜尋到訊號後，應該就會收到「預約漫遊計畫已開通」的簡訊
+
+其他電信公司請直接到門市詢問。
+
+需注意背景程式持續 refresh 可能會爆表收到萬元帳單，請把用不到的程式關閉背景 refresh 功能 (`Preference > General > Background App Refresh`)
